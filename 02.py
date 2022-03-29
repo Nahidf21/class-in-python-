@@ -1,0 +1,1 @@
+#creat a class named person, use the__init__() function
